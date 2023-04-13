@@ -1,0 +1,7 @@
+<project>
+    <modelVersion>4</modelVersion>
+    <groupId>io.github.gabrielgarcia</groupId>
+    <artifactId>startwebmaven</artifactId>
+
+    <packageing >war</packageing>
+</project>
